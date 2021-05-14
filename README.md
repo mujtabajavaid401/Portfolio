@@ -15,3 +15,42 @@ The risk of developing breast cancer is continouslly emmerging.The early detecti
 In this project I am to develop a machine learning model that can be used to which could classify tumours present in a patient that could eventually result in breast cancer.
 
 Values present in the dataset includes tumor radius which is mainly the distances from center to points on the perimeter,texture as in standard deviation of gray-scale values, perimeter, area, smoothness indicating the local variation in radius lengths, compactness i.e perimeter² / area — 1.0, concavity as in severity of concave portions of the contour, concave points or number of concave portions of the contour, symmetry and fractal dimension.
+
+# [Project 3: Customer Segemntation: Project Overview](https://github.com/mujtabajavaid401/customer_segmentation)
+
+Retail sector either it be online or not, generate a large amount of data i.e customer transactions, on day-to day bases.This data can be analysed for to force trends  that could highlighting the potential customers as in grouping customers into various segments, considering which important strategies can be developed i.e communication means to address the target audience.
+
+All this is beneficial in respect to improving the relationship between the customers as they get to avail better offers as business tend to promote them to enhance their revenue or market share by means of increasing their sale.
+
+Businesses or very keen to use these strategies as this allow them, to stay ahead of competitors and lead to development of new products, considering customer’s interest.
+
+Types of Segementation:
+
+Demographic, addresses gender, age, martial status and occupation.
+Geographic , addresses location, region and urban or rural area.
+Behavioural , addresses spending, consumption habits, product/service usage , previously purchased products.
+Psychographic status, addresses social status, lifestyle, personality characteristics.
+
+In the first section of the code I am trying assign customers to particular segments by using RFM (Recency, Frequency, Monetary)  analysis which is mainly behavior-based approach to group customers into particular segments.customers on the basis of their previous purchase transactions in terms of  how recently, how often, and how much did a customer buy. RFM filters customers into various groups for the purpose of better service.There is a segment of customer who is the big spender but what if they purchased only once or how recently they purchased? Do they often purchase our product? 
+
+All this helps managers to identify potential customers to do more profitable business i.e by running an effective promotional campaign for personalized service.
+
+# [Project 4: Churn Prediction: Project Overview](https://github.com/mujtabajavaid401/churn_prediction)
+
+Retention Rate is an important metric as it iondicate a company's Product Market Fit(PMF).If the PMF is not satisfactory, a company should check their customers churning very soon.A powerful tool to improve Retention Rate (hence the PMF) is Churn Prediction.
+
+In this project I aim to develop a program that asses which custom,ers are likely to get churn based on the givern data and after application feature engineering.
+
+# [Project 5: Parkinson Desease Detection: Project Overview](https://github.com/mujtabajavaid401/parkinson_disease_detection)
+
+The project aims to detect weither a person contains parkinsons desease or not, using the dataset that contains variable biomedical voice measurement of 31 candidates out which 23 has Parkinson's disease(PD).
+Weither the patient has parkinson disease or not is indicated by the status column with '1' indicating the presence of parkisons disease while '0' indicates normal behavoiur. system to suggest movies to users based on a number of methodoligies.
+
+
+# [Project 6: Demystifying Cusomer Behavior Using Market Basket Analysis: Project Overview]
+
+This project aims to anticipate customer behaviour as in identifying the typical grocery products that are bought together i.e bread and butter.I am mainly using the "Association Mining Rule", it differs from a typical "Recommendation System" in a sense that it doesn't look into a particular customer's preference.
+
+I am specifically using the "Apriori Algorithm" tha mainly takes in in as parameters, records which is a collection of lists,min_support as in a probability value to select the items with support values greater than the value specified by the parameter, min_confidence that is a probability value to filter rules with greater confidence than the specified threshold,
+min_lift that is minimum lift value to shortlist the list of rules and min_length that is the minimum number of items you want in your rules.
+
