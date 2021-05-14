@@ -47,10 +47,17 @@ The project aims to detect weither a person contains parkinsons desease or not, 
 Weither the patient has parkinson disease or not is indicated by the status column with '1' indicating the presence of parkisons disease while '0' indicates normal behavoiur. system to suggest movies to users based on a number of methodoligies.
 
 
-# [Project 6: Demystifying Cusomer Behavior Using Market Basket Analysis: Project Overview]
+# [Project 6: Demystifying Cusomer Behavior Using Market Basket Analysis: Project Overview](https://github.com/mujtabajavaid401/demystifying_cusomer_behavior-using-market_basket_analysis)
 
 This project aims to anticipate customer behaviour as in identifying the typical grocery products that are bought together i.e bread and butter.I am mainly using the "Association Mining Rule", it differs from a typical "Recommendation System" in a sense that it doesn't look into a particular customer's preference.
 
 I am specifically using the "Apriori Algorithm" tha mainly takes in in as parameters, records which is a collection of lists,min_support as in a probability value to select the items with support values greater than the value specified by the parameter, min_confidence that is a probability value to filter rules with greater confidence than the specified threshold,
 min_lift that is minimum lift value to shortlist the list of rules and min_length that is the minimum number of items you want in your rules.
 
+# [Project 7: Movie Recommendation System: Project Overview](https://github.com/mujtabajavaid401/movie_recommender_system) 
+
+The project aims to develop a system to suggest movies to users based on a number of methodoligies.
+
+# [Project 8: Credit Card Fraud Detection: Project Overview](https://github.com/mujtabajavaid401/credit_card_fraud_detection)  
+
+The program mainly tries to predict which trasnaction are fraudulent and which are not using various techniques.
