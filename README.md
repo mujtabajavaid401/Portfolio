@@ -1,6 +1,6 @@
 # Portfolio
 
-#  Project 1: Speech Emotion Recognition
+#  [Project 1: Speech Emotion Recognition: Project Overview](https://github.com/mujtabajavaid401/speech_emotion_recognition)
 
 In this project I am trying to develop a system that is able to detect human emotion based on a persons voice.
 
