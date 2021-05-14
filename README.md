@@ -1,4 +1,3 @@
-# Portfolio
 
 #  [Project 1: Speech Emotion Recognition: Project Overview](https://github.com/mujtabajavaid401/speech_emotion_recognition)
 
