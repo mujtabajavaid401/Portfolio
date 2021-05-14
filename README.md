@@ -56,8 +56,12 @@ min_lift that is minimum lift value to shortlist the list of rules and min_lengt
 
 # [Project 7: Movie Recommendation System: Project Overview](https://github.com/mujtabajavaid401/movie_recommender_system) 
 
-The project aims to develop a system to suggest movies to users based on a number of methodoligies.
+Nowadays various platforms usually offer several options or a huge variety of products i.e YouTube has billions of videos.To attain customers Recommender Systems helps to personalize a platform for each user that enable them to find something they like thus stop them from switching to another medium.
+These systems either recommend the most popular items or the item usually the customer or user is interested in.
+
+In this project I aims to develop a system to suggest movies to users based on a number of methodoligies.
+
 
 # [Project 8: Credit Card Fraud Detection: Project Overview](https://github.com/mujtabajavaid401/credit_card_fraud_detection)  
 
-The program mainly tries to predict which trasnaction are fraudulent and which are not using various techniques.
+The program mainly tries to predict which trasnaction are fraudulent and which are not using various techniques to develop several classification models varying in accuracy.The dataset being used contains the transactions between people that are labeled to be either fruadlent or not.
